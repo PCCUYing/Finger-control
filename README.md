@@ -17,6 +17,7 @@
 
 ```bash
 conda create "project name" pythen=3.10.16
+conda activate "project name"
 pip install opencv-python mediapipe pycaw comtypes
 ```
 

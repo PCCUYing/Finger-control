@@ -47,7 +47,9 @@ pip install opencv-python mediapipe pycaw comtypes
 ## 示範
 - 系統執行示例：
 
-![示範截圖](![image](https://github.com/user-attachments/assets/9bda0aca-e678-4d20-bc47-36f0f9c88fbc))
+![示範截圖]
+![image](https://github.com/user-attachments/assets/6bdf2b60-be9d-455f-a6a9-3d521ffe823d)
+
 
 ## 未來改進方向
 - 支援更多手勢操作功能。

@@ -24,8 +24,8 @@ pip install opencv-python mediapipe pycaw comtypes
 ## 執行步驟
 1. 將此專案克隆至本地：
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/PCCUYing/Finger-control.git
+   cd Finger-control
    ```
 2. 執行主程式：
    ```bash
